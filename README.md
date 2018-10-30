@@ -1,3 +1,3 @@
 # gitskills
 my learn of git
-Creatinbg branch is quick.
+Creatinbg a new branch is quick And simple.
